@@ -16,7 +16,7 @@ function App() {
           <TableComponent />
         </Route>
         <Route path="/charts">
-          <h1>Chart Library</h1>
+          <h1>Animals in My Lifetime</h1>
           <ChartComponent />
         </Route>
       </Switch>
